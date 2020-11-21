@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-multi-app",
+    "name": "yiqiniu/think-multi-app",
     "description": "thinkphp6 multi app support",
     "license": "Apache-2.0",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "require": {
     	"php": ">=7.1.0",
-        "yiqiniu/framework": "^7.0.0"
+        "yiqiniu/framework": "^6.0.*.dev"
     },
     "autoload": {
         "psr-4": {
